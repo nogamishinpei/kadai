@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.headline {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+/*タイトル*/
+
+.title1 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #999999;
+  padding-bottom: 30px;
+}
+
+.title2 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #999999;
+  padding-bottom: 30px;
+}
+
+.title3 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #999999;
+  padding-bottom: 30px;
+}
+
+.title4 {
+  border-bottom: 1px solid #999999;
+  padding-bottom: 30px;
+}
