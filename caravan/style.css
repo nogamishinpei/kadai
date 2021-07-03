@@ -47,6 +47,8 @@ header .heading{/*headerタグ内のheadingクラスにのみ反映される*/
 .main-visual-content {
   width: 350px; /* 横幅350px */
   height: 300px; /* 親の高さに揃える */
+  background-image: mv;
+
 
 }
 
