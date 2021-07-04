@@ -12,11 +12,23 @@ a{
 
 }
 
+/*フォント指定*/
+header, nav, h2 , .main-visual, footer{
+  font-family: Chalkduster,"Brabiey Hand",Courier,"Segoe print",sans-serif;
+}
+
 header{
   width: 90%;/*横幅90％*/
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
+  position: relative;
+}
+
+.social i {
+  display: inline-block;
+  margin-left:20px;
+
 }
 
 header .heading{/*headerタグ内のheadingクラスにのみ反映される*/
